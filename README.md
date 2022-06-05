@@ -1,10 +1,4 @@
 # COMP2020-P5-Cache Simulator
-## Team Members
-- Le Hoang Vinh
-- Bui Duc Khanh An
-- Le Nu Uyen Phuong
-- Tong Duy Hai
-
 ## Write-up question and graph
 
 ### Graph #1: Miss Rate vs Cache Size
